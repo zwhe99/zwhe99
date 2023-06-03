@@ -6,16 +6,16 @@
 - :blue_book: More on [zwhe99.github.io](https://zwhe99.github.io/)
 <!--START_SECTION:waka-->
 
-```text
-From: 31 December 2022 - To: 31 May 2023
+```txt
+From: 31 December 2022 - To: 01 June 2023
 
-Total Time: 521 hrs 38 mins
+Total Time: 524 hrs 23 mins
 
-Python             266 hrs 21 mins ██████████▓░░░░░░░░░░░░░░   42.00 %
-Bash               134 hrs 19 mins █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Other              112 hrs 34 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-Text               51 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JSON               48 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Python             268 hrs 20 mins ██████████▓░░░░░░░░░░░░░░   42.12 %
+Bash               135 hrs 5 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+Other              112 hrs 42 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Text               51 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+JSON               48 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
