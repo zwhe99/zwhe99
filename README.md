@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2022 - To: 30 December 2024
+From: 31 December 2022 - To: 31 December 2024
 
-Total Time: 2,190 hrs 12 mins
+Total Time: 2,190 hrs 26 mins
 
-Python             1,204 hrs 15 mins███████████▓░░░░░░░░░░░░░   46.15 %
-Bash               561 hrs 8 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Other              419 hrs 29 mins ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-JSON               238 hrs 39 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Python             1,204 hrs 15 mins███████████▓░░░░░░░░░░░░░   46.14 %
+Bash               561 hrs 22 mins █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Other              419 hrs 33 mins ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+JSON               238 hrs 39 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
 Text               81 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
