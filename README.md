@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2024 - To: 22 August 2025
+From: 23 August 2024 - To: 23 August 2025
 
-Total Time: 369 hrs 20 mins
+Total Time: 365 hrs
 
-Python         214 hrs 40 mins ██████████▓░░░░░░░░░░░░░░   42.23 %
-Other          138 hrs 59 mins ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Bash           107 hrs 7 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-JSON           22 hrs 13 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-TeX            9 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python         212 hrs 54 mins ██████████▓░░░░░░░░░░░░░░   42.37 %
+Other          137 hrs 30 mins ███████░░░░░░░░░░░░░░░░░░   27.36 %
+Bash           104 hrs 49 mins █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+JSON           22 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TeX            9 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
