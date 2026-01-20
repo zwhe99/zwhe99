@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 17 January 2026
+From: 18 January 2025 - To: 18 January 2026
 
-Total Time: 43 hrs 32 mins
+Total Time: 43 hrs 43 mins
 
-Python               24 hrs 15 mins  ███████████▒░░░░░░░░░░░░░   44.88 %
-Other                10 hrs 31 mins  █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-TeX                  9 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Markdown             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JSON                 2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python               24 hrs 15 mins  ███████████▒░░░░░░░░░░░░░   44.67 %
+Other                10 hrs 35 mins  █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+TeX                  9 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Markdown             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JSON                 2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
